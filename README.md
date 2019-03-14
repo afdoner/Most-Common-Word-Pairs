@@ -6,7 +6,7 @@ This program sifts through a text file and returns the most common 2 word pairs.
 
 Examples: 
 
-![ExOutput](https://imgur.com/CrW5kpj)
+![ExOutput](https://imgur.com/CrW5kpj.png)
 
 ## Getting Started
 

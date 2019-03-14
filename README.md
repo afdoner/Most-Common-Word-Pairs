@@ -2,13 +2,11 @@
 
 ## Description
 
-This programs sifts through a text file and returns the most common 2 word pairs. It is written in c++ and makes use of merge sort and insertion sort.
+This program sifts through a text file and returns the most common 2 word pairs. It is written in c++ and makes use of merge sort and insertion sort.
 
 Examples: 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://imgur.com/CrW5kpj)
-https://imgur.com/CrW5kpj
+![ExOutput](https://imgur.com/CrW5kpj)
 
 ## Getting Started
 

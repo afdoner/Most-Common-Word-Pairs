@@ -7,7 +7,9 @@ This program sifts through a text file and returns the most common 2 word pairs.
 Example: 
 
 Alice in Wonderland
+
 ![ExOutput](https://imgur.com/rUGXjNY.png)
+
 ![ExOutput](https://imgur.com/CrW5kpj.png)
 
 ## Getting Started
